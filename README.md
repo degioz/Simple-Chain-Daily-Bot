@@ -1,6 +1,6 @@
 # Simple Chain Daily Bot 🤖
 
-Automated daily bot for [Simple Chain](https://task.simplechain.com), built by **DEGIO**.
+Automated daily bot for [Simple Chain](https://task.simplechain.com?inviteCode=9v5lpvicc3b), built by **DEGIO**.
 
 Runs every 24 hours — performs wallet login, visit task, and daily check-in automatically.
 
