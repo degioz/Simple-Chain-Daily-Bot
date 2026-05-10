@@ -27,7 +27,7 @@ Runs every 24 hours — performs wallet login, visit task, and daily check-in au
 
 ```bash
 git clone https://github.com/degioz/simple-chain-daily-bot.git
-cd simplechain-daily-bot
+cd simple-chain-daily-bot
 pip install -r requirements.txt
 ```
 
